@@ -1,0 +1,5 @@
+* text=auto
+
+entrypoint.sh eol=lf
+
+entrypoint.prod.sh eol=lf

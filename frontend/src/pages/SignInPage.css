@@ -1,0 +1,48 @@
+.signin-form {
+    width: 500px; /* Increased max-width */
+    margin: auto;
+    padding: 30px; /* Increased padding */
+    border: 1px solid #ddd;
+    border-radius: 8px; /* Increased border-radius */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); /* Increased box-shadow */
+    background-color: #fff;
+}
+#logout-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.form-group {
+    margin-bottom: 20px; /* Increased margin-bottom */
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 8px; /* Increased margin-bottom */
+    font-weight: bold;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 12px; /* Increased padding */
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    border-radius: 6px; /* Increased border-radius */
+}
+
+.d-grid {
+    margin-top: 20px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 12px; /* Increased padding */
+    cursor: pointer;
+    border-radius: 6px; /* Increased border-radius */
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
