@@ -67,6 +67,8 @@ python manage.py migrate
 ```bash
 python manage.py createsuperuser
 ```
+Notez que lors de la création d'un superutilisateur à l'aide de cette commande, deux rôles distincts, `admin` et `user` , seront automatiquement assignés à l'utilisateur. Les paramètres requis, tels que le mot de passe, le nom d'utilisateur et l'adresse e-mail, seront également configurés pendant le processus de création du superutilisateur.
+
 
 #### 1.1.3 Exécution
 <hr>
