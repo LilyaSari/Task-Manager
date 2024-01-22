@@ -2,7 +2,7 @@
 
 Ce projet est composé de deux parties distinctes : le backend et le frontend. Suivez les instructions ci-dessous pour configurer et exécuter chaque partie du projet.
 
-De plus, une API REST est intégrée, accompagnée de sa documentation hypertexte dans un fichier [DOC-API.md](https://github.com/LilyaSari/Task-Manager/blob/main/DOC-API.md).
+De plus, une API REST est intégrée, accompagnée de sa documentation dans un fichier [DOC-API.md](https://github.com/LilyaSari/Task-Manager/blob/main/DOC-API.md).
 
 ## 1. Développement (Locale)
 
